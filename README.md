@@ -1,16 +1,20 @@
-## Hi there 👋
+# hi, i'm nazlı 🌙
 
-<!--
-**nazlicakan/nazlicakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mis graduate with a love-hate relationship with spreadsheets.  
 
-Here are some ideas to get you started:
+💡 interested in creative tech, visual data, and design thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently doing data analysis, system analysis, and a bit of statistical magic.  
+
+i speak fluent:
+- excel formulas & pivot tables  
+- sql joins that actually make sense  
+- python 
+- power bi dashboards that don’t blind your eyes  
+
+i like clean data, smart systems, and making numbers tell stories.  
+half analyst, half detective. full caffeine. ☕  
+
+🐾 (bonus) cats, and late-night coding playlists  
+
+stay tuned! my excel & bi projects are landing here soon.
