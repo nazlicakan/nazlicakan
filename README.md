@@ -4,7 +4,7 @@ mis graduate with a love-hate relationship with spreadsheets.
 
 💡 interested in creative tech, visual data, and design thinking.
 
-currently doing data analysis, system analysis, and a bit of statistical magic.  
+currently doing data analysis, system analysis & design, and a bit of statistical magic.  
 
 i speak fluent:
 - excel formulas & pivot tables  
