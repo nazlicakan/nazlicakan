@@ -9,8 +9,8 @@ currently doing data analysis, system analysis & design, and a bit of statistica
 i speak fluent:
 - excel formulas & pivot tables  
 - sql joins that actually make sense  
-- python 
-- power bi dashboards that don’t blind your eyes  
+- python and r studio
+- tableau dashboards that don’t blind your eyes  
 
 i like clean data, smart systems, and making numbers tell stories.  
 half analyst, half detective. full caffeine. ☕  
